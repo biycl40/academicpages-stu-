@@ -377,10 +377,10 @@ compress_html:
 
 defaults:
   - scope:
-      path: ""
-      type: Repositories
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+    path: ""
+    type: Repositories
+      values:
+        layout: single
+        author_profile: true
+        share: true
+        comments: true
