@@ -25,7 +25,4 @@ Solo Author
     *arXiv, 2026*
 
 
-<details>
-<summary>点击展开我的学习历程</summary>
-2022 秋：入燕园，初窥计算机语言与 Github
-</details>
+
