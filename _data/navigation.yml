@@ -18,17 +18,15 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "project 1"
-    url: /project 1/
-  
-  - title: "project 2"
-    url: /project 2/
-
-  - title: "project 3"
-    url: /project 3/
-
-  - title: "project 4"
-    url: /project 4/
-
-  - title: "project 5"
-    url: /project 5/
+- title: About
+  url: /
+- title: project 1
+  url: /notes/
+- title: project 2
+  url: /repositories/
+- title: project 3
+  url: /Blogs/
+- title: project 4
+  url: /cv/
+- title:project 5
+  url: /links/
