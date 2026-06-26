@@ -376,7 +376,6 @@ compress_html:
     permalink: /:collection/:path/
 
 defaults:
-  
   - scope:
       path: ""
       type: Repositories
