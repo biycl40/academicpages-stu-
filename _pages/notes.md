@@ -5,9 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-## 论文成果
-
-### Solo Author
+Solo Author
 1.  **Refining time-space traffic diagrams: A simple multiple linear regression model**
     *IEEE Transactions on Intelligent Transportation Systems, 2024*
 
