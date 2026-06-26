@@ -1,8 +1,8 @@
 ---
-title: "Project 1"
+title: "Project_1"
 collection: Repositories
 type: "Repositories"
-permalink: /Repositories/Project 1
+permalink: /Repositories/Project_1/
 ---
 Solo Author
 
