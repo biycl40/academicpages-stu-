@@ -1,8 +1,8 @@
 ---
 title: "nameofthemd"
-collection: Notes
-type: "Notes"
-permalink: /Notes/nameofthemd
+collection: notes
+type: "notes"
+permalink: /notes/nameofthemd
 venue: "Peking Univercity"
 date: 2024-08-30
 location: "Beijing, China"
