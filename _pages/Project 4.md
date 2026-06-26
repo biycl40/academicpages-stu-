@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "project 2"
-permalink: /Repositories/
+title: "Project 4"
+permalink: /Project 4/
 author_profile: true
 ---
 1.2 "Simple" Series
