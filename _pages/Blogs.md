@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-1.2 "Simple" Series
+2.1 Data-Driven Traffic Modeling
 
-Refining time-space traffic diagrams: A simple multiple linear regression model, IEEE Transactions on Intelligent Transportation Systems, 2024
-Mapping to cells: a simple method to extract traffic dynamics from probe vehicle data, Computer-Aided Civil and Infrastructure Engineering. 2017
 A simple nonparametric car-following model driven by field data. Transportation Research Part B, 2015
+On the impact of prior experiences in car following models model development, computational efficiency, comparative analyses and extensive applications, IEEE Transactions on Cybernetics, 2023
+A data-driven lane-changing model based on deep learning, Transportation Research Part C, 2019
