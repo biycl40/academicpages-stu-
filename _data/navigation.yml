@@ -21,12 +21,12 @@ main:
 - title: About
   url: /
 - title: Project 1
-  url: /project 1/
-- title: project 2
-  url: /repositories/
-- title: project 3
-  url: /Blogs/
-- title: project 4
-  url: /cv/
-- title: project 5
-  url: /links/
+  url: /Project 1/
+- title: Project 2
+  url: /Project 2/
+- title: Project 3
+  url: /Project 3/
+- title: Project 4
+  url: /Project 4/
+- title: Project 5
+  url: /Project 5/
