@@ -21,7 +21,7 @@ In particular, I am a pioneer and long-term contributor in AI-driven transportat
 
 
 
-<h2>Pageviews</h2>
+
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
 <h2>Contact me</h2>
