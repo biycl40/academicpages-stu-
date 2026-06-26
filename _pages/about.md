@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in the 22nd Turing Class. At the same time, I studied for a double degree in economics at the National School of Development.
+As a principal investigator, I have secured funding exceeding $1 million for national-level (key) projects. 
 
-My research interests and skills are concentrated in the fields of ml, nlp, llms, etc. I am currently studying in Mr. Yizhou Wang's program.  <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
+I have published 180+ academic papers, including 50+ published exclusively in the prestigious journal series of Transportation Research and IEEE Transactions. I am proud that I have published papers across the entire Transportation Research family (TR A/B/C/D/E/F), 20+ TRC and 10+ TITS. And, a Correspondence in Nature.
+Total citations: 8000+, i10-index: 100+, H-index: 40+. -->
 
-<!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
+I am an IEEE senior member and was listed as World’s Top 2% Scientists, ranking 67/30,588 in Transportation & Logistics (23,536 in all fields). 
+I serve as a Senior Editor for IEEE Transactions on Intelligent Transportation Systems, a Deputy Editor-in-Chief for IET Intelligent Transport Systems, an Associate Editor for IEEE Transactions on Intelligent Vehicles, an Editorial Advisory Board member for Transportation Research Part C, etc.-->
 
-<!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
+<!--My research lies at the intersection of urban mobility, systems engineering, and artificial intelligence, spanning from traditional topics such as traffic flow operations and control, sustainability, and resilience to emerging areas including data-driven modeling, autonomous driving, and large language models. 
+In particular, I am a pioneer and long-term contributor in AI-driven transportation modeling and AV-empowered traffic mitigation, and an early innovator in generative AI applications in transportation (see Scientific Contributions below)..-->
 
-The website is still under construction. Codes and course notes are uploading quickly.
+
 
 <h2>Pageviews</h2>
 在你修改之前, 这里不是你的网站的访问信息
