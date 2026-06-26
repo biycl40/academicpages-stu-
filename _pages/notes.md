@@ -4,6 +4,7 @@ title: "Project 1"
 permalink: /notes/
 author_profile: true
 ---
+{% include base_path %}
 
 ## 论文成果
 ### Solo Author
